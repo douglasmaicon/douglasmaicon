@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 
-Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar com o mercado e estar apto para coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse com parceria entre SESI/ACATE e a SOFTPLAN.
+Eu sou o Douglas, trabalho como Desenvolvedor de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar com o mercado e estar apto para coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse com parceria entre SESI/ACATE e a SOFTPLAN.
 
 
 ## Sobre mim
@@ -25,7 +25,22 @@ Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem
 </div>
 
 
-## Sobre o Curso DEVinHouse - Softplan
+## Estudos em Andamento
+
+Atualmente estou matriculado Curso DEVinHouse Full Stack que foi organizado pelo SESI/ACATE de Santa Catarina em parceria do com a software house SOFTPLAN. A proposta do curso é permitir a integração dos alunos com os melhores métodos e práticas disponíveis no mercado que são amplamente aplicadas por grandes empresas. Alinhado a simulação da rotina de um DEV e permitindo conexões com empresas de TI, podendo assim garantir uma vaga em uma das maiores empresas desenvolvedoras de software do país.
+
+
+## Sobre o Curso DEVinHouse - SOFTPLAN
+
+O curso tem duração de nove meses e está dividido em três módulos (3 meses por módulo).
+
+Para aproveitar os benefícios oferecidos pelo <a href="https://education.github.com/pack">GitHub Student Developer Pack</a> usei uma conta separada vinculada ao email de estudante. Esta conta está disponível <a href="https://github.com/douglas-devinhouse">aqui</a> e logo abaixo é possível ver um resumo das atividades.
+
+<div>
+  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-devinhouse&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>  
+  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-devinhouse&layout=compact&langs_count=16&theme=dark"/>
+</div>
+
 
 ### Módulo 1
 
