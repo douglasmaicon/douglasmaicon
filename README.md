@@ -21,7 +21,7 @@ Eu sou o Douglas, trabalho como Desenvolveodr de Software utilizando a linguagem
 
 <div>
   <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglasmaicon&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>  
-  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmaicon&layout=compact&langs_count=16&theme=dark"/>  
+ <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasmaicon&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
