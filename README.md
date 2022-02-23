@@ -27,7 +27,7 @@ Eu sou o Douglas, trabalho como Desenvolvedor de Software utilizando a linguagem
 
 ## Estudos em Andamento
 
-Atualmente estou matriculado Curso DEVinHouse Full Stack que foi organizado pelo SESI/ACATE de Santa Catarina em parceria do com a software house SOFTPLAN. A proposta do curso é permitir a integração dos alunos com os melhores métodos e práticas disponíveis no mercado que são amplamente aplicadas por grandes empresas. Alinhado a simulação da rotina de um DEV e permitindo conexões com empresas de TI, podendo assim garantir uma vaga em uma das maiores empresas desenvolvedoras de software do país.
+Atualmente estou matriculado Curso DEVinHouse Full Stack que foi organizado pelo SESI/ACATE de Santa Catarina em parceria com a software house SOFTPLAN. A proposta do curso é permitir a integração dos alunos com os melhores métodos e práticas disponíveis no mercado que são amplamente aplicadas por grandes empresas. Alinhado a simulação da rotina de um DEV e permitindo conexões com empresas de TI, podendo assim garantir uma vaga em uma das maiores empresas desenvolvedoras de software do país.
 
 
 ## Sobre o Curso DEVinHouse - SOFTPLAN
