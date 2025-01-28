@@ -5,7 +5,7 @@ Eu sou o Douglas, trabalho como Desenvolvedor de Software utilizando a linguagem
 
 ## Sobre mim
 - 👨‍🎓 Sou graduado como Tecnólogo em Gestão da Tecnologia da Informação
-- 📚 Atualmente estou atuando como Full Stack Developer
+- 📚 Atualmente estou atuando como Full Stack Developer (Go e React)
 - 💬 Adoro conversar sobre tecnologias
 
 ## Escolha um canal de contato e vamos conversar
