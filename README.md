@@ -1,11 +1,11 @@
 ## Olá pessoal! 👋
 
-Eu sou o Douglas, trabalho como Desenvolvedor de Software utilizando a linguagem Delphi há 10+ anos. Buscando me atualizar com o mercado e estar apto para coloborar com projetos incríveis, encarei o desafio de aprender tecnologias mais modernas. Então me inscrevi em dois processos seletivos, e obtendo êxito em ambos optei pelo programa DEVinHouse com parceria entre SESI/ACATE e a SOFTPLAN.
+Eu sou o Douglas, sou Desenvolvedor de Software há 15 anos, já atuei com diversas linguagens como Delphi, Python, PHP, C#, entre outras. Estou sempre buscando me atualizar com o mercado e estar apto para coloborar com projetos incríveis. E por isso, mais recentemente tenho estudado e atuado bastante como desenvolvedor Full Stack utilizando a linguagem Go para projetos back-end e React.js e React Native para o lado front-end. Além disso, sou um entusiasta de assuntos relacionados à segurança da informação — sempre busco aprender mais sobre como proteger sistemas, dados e aplicações, e desenvolver boas práticas de segurança no meu dia a dia como desenvolvedor.
 
 
 ## Sobre mim
-- 👨‍🎓 Sou graduado como Tecnólogo em Gestão da Tecnologia da Informação
-- 📚 Atualmente estou atuando como Full Stack Developer (Go e React)
+- 👨‍🎓 Sou graduado como Tecnólogo em Gestão da Tecnologia da Informação pelo Centro Universitário Presidente Tancredo de Almeida Neves (UNIPTAN)
+- 📚 Atualmente estou atuando de forma autônoma como Full Stack Developer (Go e React)
 - 💬 Adoro conversar sobre tecnologias
 
 ## Escolha um canal de contato e vamos conversar
@@ -25,52 +25,45 @@ Eu sou o Douglas, trabalho como Desenvolvedor de Software utilizando a linguagem
 </div>
 
 
-## Estudos em Andamento
+## Histórico Profissional
 
-Atualmente estou matriculado Curso DEVinHouse Full Stack que foi organizado pelo SESI/ACATE de Santa Catarina em parceria com a software house SOFTPLAN. A proposta do curso é permitir a integração dos alunos com os melhores métodos e práticas disponíveis no mercado que são amplamente aplicadas por grandes empresas. Alinhado a simulação da rotina de um DEV e permitindo conexões com empresas de TI, podendo assim garantir uma vaga em uma das maiores empresas desenvolvedoras de software do país.
+Ao longo da minha trajetória profissional, tive a oportunidade de atuar em diversos contextos e com diferentes tecnologias, o que me proporcionou uma visão ampla do desenvolvimento de software. Já trabalhei em projetos de setores público e privado, passando por áreas como automação comercial, gestão pública, sistemas financeiros, sistemas jurídicos e aplicações web e mobile. Entre os principais marcos da minha carreira, destaco:
+
+## Alfa Design
+    🧾 Desenvolvimento de sistemas de gestão comercial utilizando Delphi e Firebird
+
+    💼 Participação em projetos corporativos com PHP, MySQL e JavaScript
+
+## SH3 Informática    
+    🧾 Desenvolvimento de sistemas de gestão pública utilizando Delphi e Firebird
+
+    💼 Participação em projetos corporativos com PHP, MySQL e JavaScript
+
+    🔄 Atuação com foco em metodologias ágeis como SCRUM
+    
+    🛠️ Implementação de servidores Linux e moniramento automatizado com Zabbix
+
+## Softplan
+    🧾 Desenvolvimento de sistemas jurídiocs para ministérios públicos utilizando C# e .NET
+    
+    💼 Integração sistemas legados com novos serviços
+
+    🌐 Experiência em tecnologias como Docker, RabbitMQ e versionamento com Git, com foco em integração contínua e boas práticas de desenvolvimento
 
 
-## Sobre o Curso DEVinHouse - SOFTPLAN
+## Tecnologias 
 
-O curso tem duração de nove meses e está dividido em três módulos (3 meses por módulo).
-
-Para aproveitar os benefícios oferecidos pelo <a href="https://education.github.com/pack">GitHub Student Developer Pack</a> usei uma conta separada vinculada ao email de estudante. Esta conta está disponível <a href="https://github.com/douglas-devinhouse">aqui</a> e logo abaixo é possível ver um resumo das atividades.
-
-<div>
-  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api?username=douglas-devinhouse&show_icons=true&theme=dark&count_private=true&include_all_commits=false"/>  
-  <img height="180em" width="350px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-devinhouse&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-
-### Módulo 1
-
-Conceitos fundamentais da WEB, passando por tudo que é necessário para dominar frontend com o React. Nesse módulo também foram abordados conceitos de desenvolvimento ágil com o Kanban board. Tive a oportunidade de desenvolver dois incríveis projetos avaliativos aplicando as melhores técnicas de todos as tecnologias abordadas.
-
-<div style={display: "flex"}>
+<div style={display: "flex"}>  
+  
+  <img heigth="56px" width="56px" src="https://cdn.simpleicons.org/go?viewbox=auto&size=72" />
   <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-##
-### Módulo 2
-
-Aprendendo do C# ao .Net Core e SQL para dominar tudo que é necessário para criar soluções robustas no backend, além de testes e documentação. Também é abordado nesse módulo práticas em metodologias ágeis com a aplicação de mini-sprints semanais.
-
-<div style={display: "flex"}>
-<img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-<img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
-
-##
-### Módulo 3
-
-Para finalizar, neste último módulo teremos a unificação de frontend e backend com o aprofundamento no ciclo de desenvolvimento completo dominando Docker e RabbitMQ, me oficializando como um Fullstack Developer.
-
-<div style={display: "flex"}>
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img heigth="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="56px" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
   <img height="56px" width="56px" src="https://dyltqmyl993wv.cloudfront.net/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png" />
   <img height="56px" width="56px" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-scrum-agile-flaticons-flat-flat-icons-6.png"/>
